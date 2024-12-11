@@ -1,5 +1,5 @@
 function myFunction(a) {
-    return a.slice(-4);
+    return a.slice(3);
 }
 
 
